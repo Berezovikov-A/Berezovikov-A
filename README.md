@@ -2,7 +2,7 @@
 <h3 align="center">A passionate analyst from Kazakhstan eager to become a developer</h3>
 <img align="right" alt="Analytics" width="400" src="https://images.prismic.io/smarttask/06832d30-f058-415e-934b-0563721fb7fa_Business+Impact+Analysis.gif?auto=compress,format" />
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **React.js, Machine Learning**
 
 - 📫 How to reach me **alexeyberezovikov@gmail.com**
 
