@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **alexeyberezovikov@gmail.com**
 
-- 📄 Know about my experiences [Analytics, databases](Analytics, databases)
+- 📄 Know about my experiences **Analytics, databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
