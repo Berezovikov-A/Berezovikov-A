@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexey Berezovikov</h1>
-<h3 align="center">A Business analyst from Kazakhstan passionate about AI, ML and data science.</h3>
+<h3 align="center">A Data Analyst from Kazakhstan passionate about AI, ML and data science.</h3>
 <img align="right" alt="Analytics" width="400" src="https://images.prismic.io/smarttask/06832d30-f058-415e-934b-0563721fb7fa_Business+Impact+Analysis.gif?auto=compress,format" />
 
-- 🌱 I’m currently learning **React.js, Machine Learning**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **alexeyberezovikov@gmail.com**
 
-- 📄 Know about my experiences **Analytics, databases**
+- 📄 Know about my experiences **Analytics, Databases, SQL, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
